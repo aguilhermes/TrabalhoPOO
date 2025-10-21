@@ -81,7 +81,7 @@ O projeto é composto por 7 arquivos `.java`:
 2.  Localize o arquivo `Main.java`.
 3.  Clique com o botão direito e selecione "Run" (Executar).
 
-## 📋 Exemplo de Saída
+## 📋 Saída
 
 A execução do programa `Main` irá gerar a seguinte saída no console (baseado nos dados de `carregarDados`):
 == Lista de Estudantes (ordenada) == ID: 5, Nome: Elisa ID: 4, Nome: Guilherme ID: 1, Nome: Julia ID: 3, Nome: Maria ID: 2, Nome: Octavio
