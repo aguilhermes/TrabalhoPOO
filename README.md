@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento Escolar (Trabalho de POO)
-Participantes: Antonio Guilherme Santos da Silva, Octavio Alves Freire.
+Participante: Antonio Guilherme Santos da Silva.
 
 Este projeto é uma solução para um trabalho acadêmico da disciplina de Programação Orientada a Objetos (POO). O objetivo é simular um sistema de controle de estudantes, disciplinas e notas para uma escola, aplicando de forma prática as **Java Collections Framework (List, Set e Map)**.
 
